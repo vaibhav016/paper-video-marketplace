@@ -1,0 +1,15 @@
+{
+  "name": "paper-video",
+  "owner": { "name": "Vaibhav Singh" },
+  "metadata": { "description": "Research-paper explainer videos with manim", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "paper-video",
+      "source": "./plugins/paper-video",
+      "description": "Turn the research paper in your directory into a polished, paper-styled manim explainer video, with social cuts, an X thread and a LinkedIn post.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["manim", "video", "research", "paper", "explainer", "latex"]
+    }
+  ]
+}

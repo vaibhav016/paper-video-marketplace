@@ -1,0 +1,8 @@
+{
+  "name": "paper-video",
+  "version": "1.0.0",
+  "description": "Turn the research paper in your directory into a polished, paper-styled manim explainer video, with social cuts, an X thread and a LinkedIn post.",
+  "author": { "name": "Vaibhav Singh" },
+  "keywords": ["manim", "video", "research", "paper", "explainer", "latex"],
+  "license": "MIT"
+}
