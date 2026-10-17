@@ -8,7 +8,7 @@ LinkedIn post.
 ## Install
 
 ```
-/plugin marketplace add <github-user>/paper-video-marketplace
+/plugin marketplace add vaibhav016/paper-video-marketplace
 /plugin install paper-video@paper-video
 ```
 
